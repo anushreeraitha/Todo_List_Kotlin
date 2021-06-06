@@ -15,6 +15,7 @@
         android:text="Todo List"
         android:textAllCaps="true"
         android:textColor="@color/black"
+
         android:textSize="18dp" />
 
     <androidx.recyclerview.widget.RecyclerView
